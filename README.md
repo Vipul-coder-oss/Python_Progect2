@@ -1,5 +1,5 @@
-# Python_Progect2
-A Digital Clock with Python
+# Python Digital Clock
+I created a digital clock using Python
 <br>
 Author - Vipul Choudhary
 
