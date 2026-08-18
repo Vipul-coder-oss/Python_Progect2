@@ -1,6 +1,6 @@
 # Python_Progect2
 A Digital Clock with Python
-
+<br>
 Author - Vipul Choudhary
 
 "This project is built using Python and can be developed with the Tkinter library to create a simple and attractive graphical user interface (GUI)."
