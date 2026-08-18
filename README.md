@@ -6,7 +6,7 @@ Author - Vipul Choudhary
 "This project is built using Python and can be developed with the Tkinter library to create a simple and attractive graphical user interface (GUI)."
 
 import tkinter as tk    
-"tk is used for grafical degine"
+"tk is used for graphical user interface (GUI)"
 from time import strftime 
 "from is used for forward time or date acording to"
 
